@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Amed Torres
 
-<!--
-**amedtorres/amedtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Student | Developer**
 
-Here are some ideas to get you started:
+- 🎓 Studying software development.
+- 🚀 Currently working on **development and personal projects**.
+- 🌱 Learning **Java**, **Python**, and **Kotlin**.
+- 📫 Contact me: [amedtorres15@gmail.com](mailto:amedtorres15@gmail.com])
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![Amed's GitHub stats](https://github-readme-stats.vercel.app/api?username=amedtorres&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amedtorres&layout=compact&theme=radical)
+
+---
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=amedtorres&theme=radical)
+
+---
+
+### 🧠 Projects
+
+🚧 I'm currently developing new projects — coming soon!👀
+
+---
+
+⭐️ *Building cool things one commit at a time.*
