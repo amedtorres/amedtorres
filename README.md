@@ -4,8 +4,7 @@
 
 - 🎓 Studying software development.
 - 🚀 Currently working on **development and personal projects**.
-- 🌱 Learning **Java**, **Python**, and **Kotlin**.
-- 📫 Contact me: [amedtorres15@gmail.com](mailto:amedtorres15@gmail.com])
+
 
 ---
 
