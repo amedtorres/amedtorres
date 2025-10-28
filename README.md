@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Amed Torres
 
-💻 **Student | Developer**
-
-- 🎓 Studying software development.
-- 🚀 Currently working on **development and personal projects**.
-
 ---
 
 ### 📊 GitHub Stats
