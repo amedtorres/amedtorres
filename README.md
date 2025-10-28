@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Amed Torres
 
 ---
 
@@ -12,4 +11,6 @@
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=amedtorres&bg_color=0D1117&title_color=2196F3&text_color=90CAF9&icon_color=2196F3)
+![GitHub Streak](https://streak-stats.demolab.com/?user=amedtorres&theme=dark&background=0D1117&text=90CAF9&fire=2196F3)
+
+---
