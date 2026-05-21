@@ -10,10 +10,17 @@
 
 ---
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,c,python,mysql,mongodb,docker,linux,bash,git&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=ai&theme=dark" height="48"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<div align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
+
 
 </p>
