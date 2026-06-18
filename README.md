@@ -13,7 +13,6 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,html,css,js,c,python,mysql,mongodb,docker,linux,bash,git&theme=dark" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=ai&theme=dark" height="48"/>
 </div>
 
 <div align="center">
