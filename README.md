@@ -1,4 +1,8 @@
 <div align="center">
+<h1>Artificial Intelligence & Data Engineer</h1>
+<p></o>Hi! I am a Software Developer specialized in Artificial Intelligence and Data Engineering. I focus on designing efficient data architectures, building robust APIs, and automating intelligent workflows.</p>
+</div>
+<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=amedtorres&show_icons=true&bg_color=0D1117&title_color=2196F3&text_color=90CAF9&icon_color=2196F3&include_all_commits=true)
 
